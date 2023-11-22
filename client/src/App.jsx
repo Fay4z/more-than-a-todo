@@ -1,11 +1,10 @@
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
-      <h1>Todo App</h1>
+      <h1 className="text-red-400">Todo App</h1>
     </>
   )
 }
